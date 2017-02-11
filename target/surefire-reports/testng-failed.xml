@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.netflix.driver.TestDriver]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.netflix.driver.TestDriver">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="run"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.netflix.driver.TestDriver -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.netflix.driver.TestDriver] -->
