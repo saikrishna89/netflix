@@ -5,6 +5,6 @@
     <classes>
       <class name="com.netflix.driver.TestDriver"/>
     </classes>
-	<!-- comment>
+	<!-- comment1>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
